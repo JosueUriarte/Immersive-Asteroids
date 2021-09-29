@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e45fd1ec8014244499f71b41677b8bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - asteroid: {instanceID: 0}
+  - rocket: {instanceID: 0}
+  - explosion: {instanceID: 0}
+  - countText: {instanceID: 0}
+  - retryButton: {fileID: 5935044960123899572, guid: eaba64b4331ef854b8281ecac5ed2bbd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
